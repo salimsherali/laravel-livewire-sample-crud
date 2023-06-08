@@ -43,7 +43,7 @@ Step 4: You need DB connection information to your .env file
 
 Step 5 run migrations
 
-```php
+```bash
     php artisan migrate
 ```
 
