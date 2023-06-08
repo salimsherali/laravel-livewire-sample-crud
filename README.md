@@ -44,7 +44,7 @@ Step 4: You need DB connection information to your .env file
 Step 5 run migrations
 
 ```bash
-    php artisan migrate
+  php artisan migrate
 ```
 
 Step 6: Start the server
